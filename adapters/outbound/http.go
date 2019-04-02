@@ -47,8 +47,11 @@ func (h *Http) Dial(metadata *C.Metadata) (net.Conn, error) {
 		return nil, fmt.Errorf("%s connect error", h.addr)
 	}
 	tcpKeepAlive(c)
-	if err := h.shakeHand(metadata, c); err != nil {
-		return nil, err
+	// 对于不支持 tls 的代理不能使用 CONNECT 通道
+	if h.tls {
+		if err := h.shakeHand(metadata, c); err != nil {
+			return nil, err
+		}
 	}
 
 	return c, nil

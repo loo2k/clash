@@ -1,4 +1,4 @@
-module github.com/Dreamacro/clash
+module github.com/loo2k/clash
 
 require (
 	github.com/Dreamacro/go-shadowsocks2 v0.1.3-0.20190202135136-da4602d8f112

@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Dreamacro/clash/common/murmur3"
-	C "github.com/Dreamacro/clash/constant"
+	"github.com/loo2k/clash/common/murmur3"
+	C "github.com/loo2k/clash/constant"
 
 	"golang.org/x/net/publicsuffix"
 )

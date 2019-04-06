@@ -3,12 +3,12 @@ package socks
 import (
 	"net"
 
-	"github.com/Dreamacro/clash/adapters/inbound"
-	C "github.com/Dreamacro/clash/constant"
-	"github.com/Dreamacro/clash/log"
-	"github.com/Dreamacro/clash/tunnel"
+	"github.com/loo2k/clash/adapters/inbound"
+	C "github.com/loo2k/clash/constant"
+	"github.com/loo2k/clash/log"
+	"github.com/loo2k/clash/tunnel"
 
-	"github.com/Dreamacro/go-shadowsocks2/socks"
+	"github.com/loo2k/go-shadowsocks2/socks"
 )
 
 var (

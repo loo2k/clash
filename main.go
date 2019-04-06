@@ -9,9 +9,9 @@ import (
 	"runtime"
 	"syscall"
 
-	"github.com/Dreamacro/clash/config"
-	C "github.com/Dreamacro/clash/constant"
-	"github.com/Dreamacro/clash/hub"
+	"github.com/loo2k/clash/config"
+	C "github.com/loo2k/clash/constant"
+	"github.com/loo2k/clash/hub"
 
 	log "github.com/sirupsen/logrus"
 )

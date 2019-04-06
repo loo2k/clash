@@ -9,9 +9,9 @@ import (
 	"net"
 	"strconv"
 
-	C "github.com/Dreamacro/clash/constant"
+	C "github.com/loo2k/clash/constant"
 
-	"github.com/Dreamacro/go-shadowsocks2/socks"
+	"github.com/loo2k/go-shadowsocks2/socks"
 )
 
 type Socks5 struct {

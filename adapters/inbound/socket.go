@@ -3,8 +3,8 @@ package adapters
 import (
 	"net"
 
-	C "github.com/Dreamacro/clash/constant"
-	"github.com/Dreamacro/go-shadowsocks2/socks"
+	C "github.com/loo2k/clash/constant"
+	"github.com/loo2k/go-shadowsocks2/socks"
 )
 
 // SocketAdapter is a adapter for socks and redir connection

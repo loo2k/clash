@@ -3,7 +3,7 @@ package rules
 import (
 	"sync"
 
-	C "github.com/loo2k/clash/constant"
+	C "github.com/Dreamacro/clash/constant"
 
 	"github.com/oschwald/geoip2-golang"
 	log "github.com/sirupsen/logrus"

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/loo2k/clash/log"
+	"github.com/Dreamacro/clash/log"
 	D "github.com/miekg/dns"
 )
 

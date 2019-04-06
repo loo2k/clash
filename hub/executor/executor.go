@@ -1,12 +1,12 @@
 package executor
 
 import (
-	"github.com/loo2k/clash/config"
-	C "github.com/loo2k/clash/constant"
-	"github.com/loo2k/clash/dns"
-	"github.com/loo2k/clash/log"
-	P "github.com/loo2k/clash/proxy"
-	T "github.com/loo2k/clash/tunnel"
+	"github.com/Dreamacro/clash/config"
+	C "github.com/Dreamacro/clash/constant"
+	"github.com/Dreamacro/clash/dns"
+	"github.com/Dreamacro/clash/log"
+	P "github.com/Dreamacro/clash/proxy"
+	T "github.com/Dreamacro/clash/tunnel"
 )
 
 // Parse config with default config path

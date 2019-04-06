@@ -8,13 +8,13 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/loo2k/clash/common/structure"
-	obfs "github.com/loo2k/clash/component/simple-obfs"
-	v2rayObfs "github.com/loo2k/clash/component/v2ray-plugin"
-	C "github.com/loo2k/clash/constant"
+	"github.com/Dreamacro/clash/common/structure"
+	obfs "github.com/Dreamacro/clash/component/simple-obfs"
+	v2rayObfs "github.com/Dreamacro/clash/component/v2ray-plugin"
+	C "github.com/Dreamacro/clash/constant"
 
-	"github.com/loo2k/go-shadowsocks2/core"
-	"github.com/loo2k/go-shadowsocks2/socks"
+	"github.com/Dreamacro/go-shadowsocks2/core"
+	"github.com/Dreamacro/go-shadowsocks2/socks"
 )
 
 type ShadowSocks struct {

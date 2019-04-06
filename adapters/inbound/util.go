@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"strconv"
 
-	C "github.com/loo2k/clash/constant"
-	"github.com/loo2k/go-shadowsocks2/socks"
+	C "github.com/Dreamacro/clash/constant"
+	"github.com/Dreamacro/go-shadowsocks2/socks"
 )
 
 func parseSocksAddr(target socks.Addr) *C.Metadata {

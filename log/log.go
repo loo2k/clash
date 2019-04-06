@@ -3,7 +3,7 @@ package log
 import (
 	"fmt"
 
-	"github.com/loo2k/clash/common/observable"
+	"github.com/Dreamacro/clash/common/observable"
 
 	log "github.com/sirupsen/logrus"
 )

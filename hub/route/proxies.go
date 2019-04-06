@@ -8,9 +8,9 @@ import (
 	"strconv"
 	"time"
 
-	A "github.com/loo2k/clash/adapters/outbound"
-	C "github.com/loo2k/clash/constant"
-	T "github.com/loo2k/clash/tunnel"
+	A "github.com/Dreamacro/clash/adapters/outbound"
+	C "github.com/Dreamacro/clash/constant"
+	T "github.com/Dreamacro/clash/tunnel"
 
 	"github.com/go-chi/chi"
 	"github.com/go-chi/render"

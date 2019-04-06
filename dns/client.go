@@ -9,9 +9,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/loo2k/clash/common/cache"
-	"github.com/loo2k/clash/common/picker"
-	C "github.com/loo2k/clash/constant"
+	"github.com/Dreamacro/clash/common/cache"
+	"github.com/Dreamacro/clash/common/picker"
+	C "github.com/Dreamacro/clash/constant"
 
 	D "github.com/miekg/dns"
 	geoip2 "github.com/oschwald/geoip2-golang"

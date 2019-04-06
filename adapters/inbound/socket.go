@@ -3,7 +3,7 @@ package adapters
 import (
 	"net"
 
-	C "github.com/Dreamacro/clash/constant"
+	C "github.com/loo2k/clash/constant"
 	"github.com/Dreamacro/go-shadowsocks2/socks"
 )
 

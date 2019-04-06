@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	C "github.com/Dreamacro/clash/constant"
+	C "github.com/loo2k/clash/constant"
 )
 
 func trimArr(arr []string) (r []string) {

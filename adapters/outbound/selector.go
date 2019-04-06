@@ -6,7 +6,7 @@ import (
 	"net"
 	"sort"
 
-	C "github.com/Dreamacro/clash/constant"
+	C "github.com/loo2k/clash/constant"
 )
 
 type Selector struct {

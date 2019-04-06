@@ -1,8 +1,8 @@
 package hub
 
 import (
-	"github.com/Dreamacro/clash/hub/executor"
-	"github.com/Dreamacro/clash/hub/route"
+	"github.com/loo2k/clash/hub/executor"
+	"github.com/loo2k/clash/hub/route"
 )
 
 // Parse call at the beginning of clash

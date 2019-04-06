@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Dreamacro/clash/log"
-	T "github.com/Dreamacro/clash/tunnel"
+	"github.com/loo2k/clash/log"
+	T "github.com/loo2k/clash/tunnel"
 
 	"github.com/go-chi/chi"
 	"github.com/go-chi/cors"
